@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GeoFence</string>
+    <string name="enable_location">Enable Location</string>
+    <string name="enable_location_message">Please enable location service to start GeoFencing.</string>
+    <string name="enable">Enable</string>
+    <string name="location_access">Location Access Mandatory</string>
+    <string name="location_access_message">̦Please grant location access</string>
+    <string name="bg_location_access">Background Location Access</string>
+    <string name="bg_location_access_message">Allow app to fetch location in, please select "Allow all time" in the next screen to initiate GeoFencing.</string>
+    <string name="grant">Grant</string>
+    <string name="reject"><![CDATA[Reject & Exit app]]></string>
+</resources>
